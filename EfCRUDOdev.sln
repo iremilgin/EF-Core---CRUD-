@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCRUDOdev", "EfCRUDOdev\EfCRUDOdev.csproj", "{D9B228A8-C215-4ECB-AF50-B24F48FFBCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B228A8-C215-4ECB-AF50-B24F48FFBCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B228A8-C215-4ECB-AF50-B24F48FFBCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B228A8-C215-4ECB-AF50-B24F48FFBCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B228A8-C215-4ECB-AF50-B24F48FFBCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C68BD05-2D56-4BD3-8B27-02B6E36CA908}
+	EndGlobalSection
+EndGlobal
